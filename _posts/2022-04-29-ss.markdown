@@ -2,7 +2,7 @@
 title:  "قیمت نمای کامپوزیت"
 subtitle: "در اصفهان و تهران"
 author: "اصلانی"
-avatar: "img/authors/aslani.png"
+avatar: "images/authors/aslani.png"
 image: "/panel/images/نمای-کامپوزیت-ساختمان-مجتمع-فردوس-10.webp"
 date:   2022-04-29 12:12:12
 premlink: /نمای-کامپوزیت/

@@ -22,7 +22,9 @@
 
 .card__container--closed {
     position: absolute;
+    box-shadow: 0 0 16px #0000004f;
     overflow: hidden;
+    border-radius: 10px;
 }
 
 .card__image {

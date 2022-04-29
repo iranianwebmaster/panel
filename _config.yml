@@ -1,0 +1,8 @@
+# Site settings
+title: اجرای نمای کامپوزیت 09122448082
+description: طراحی و اجرای نمای کامپوزیت و فروش انواع ورق 
+keywords: نمای کامپوزیت
+author: اصلانی
+baseurl: "panel" # the subpath of your site, e.g. /blog/
+url: "https://iranianwebmaster.github.io" # the base hostname & protocol for your site
+
